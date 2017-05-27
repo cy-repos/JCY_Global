@@ -1,8 +1,7 @@
 //
 //  JCY_Global.h
-//  MiMi
 //
-//  Created by WsdlDev on 15/12/3.
+//  Created by jcYang on 15/12/3.
 //  Copyright © 2015年 jcYang. All rights reserved.
 //
 
