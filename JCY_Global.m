@@ -3,7 +3,7 @@
 //  MiMi
 //
 //  Created by WsdlDev on 15/12/3.
-//  Copyright © 2015年 mazengyi. All rights reserved.
+//  Copyright © 2015年 jcYang. All rights reserved.
 //
 
 #import "JCY_Global.h"
